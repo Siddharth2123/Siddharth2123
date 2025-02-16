@@ -3,16 +3,15 @@
 
 *🎓 Student | 💻 Tech Enthusiast | 📚 Lifelong Learner*  
 
-Passionate about coding, problem-solving, and exploring new technologies.  
+Passionate about exploring new technologies.  
 Currently learning *AI & ML* and building cool projects! 🚀  
 
 ---
 
 ## ⚡ Skills & Technologies  
 
-•⁠  ⁠*Languages:* Python, C++, C  
+•⁠  ⁠*Languages:* Python, C  
 •⁠  ⁠*Web Development:* HTML 
-•⁠  ⁠*Databases:* MySQL 
 •⁠  ⁠*Version Control:* Git & GitHub  
 
 ---
