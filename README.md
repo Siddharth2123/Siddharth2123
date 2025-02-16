@@ -1,16 +1,35 @@
 ## Hi there 👋
+[16/02/25, 11:57:39 AM] Siddharth:  Hi, I'm Siddharth Patil! 👋  
 
-<!--
-**Siddharth2123/Siddharth2123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*🎓 Student | 💻 Tech Enthusiast | 📚 Lifelong Learner*  
 
-Here are some ideas to get you started:
+Passionate about coding, problem-solving, and exploring new technologies.  
+Currently learning *AI & ML* and building cool projects! 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Skills & Technologies  
+
+•⁠  ⁠*Languages:* Python, C++, C  
+•⁠  ⁠*Web Development:* HTML 
+•⁠  ⁠*Databases:* MySQL 
+•⁠  ⁠*Version Control:* Git & GitHub  
+
+---
+
+## 📚 Currently Learning  
+
+•⁠  ⁠Data Structures & Algorithms 🏗️  
+•⁠  ⁠Machine Learning & AI 🤖  
+ 
+
+---
+
+## 📬 Connect with Me  
+
+[![GitHub] (https://github.com/Siddharth2123 ]
+[![LinkedIn] (  https://www.linkedin.com/in/siddharth-patil-b0973332b/) ]
+📧 Email: patilsiddharth212004@gmail.com 
+
+⭐ *Let's build something amazing together!* 🚀
+[16/02/25, 11:59:11 AM] Síddharth Patil: Ky kru hee
