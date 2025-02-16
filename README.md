@@ -1,5 +1,5 @@
 ## Hi there 👋
-[16/02/25, 11:57:39 AM] Siddharth:  Hi, I'm Siddharth Patil! 👋  
+  Hi, I'm Siddharth Patil! 👋  
 
 *🎓 Student | 💻 Tech Enthusiast | 📚 Lifelong Learner*  
 
@@ -31,5 +31,4 @@ Currently learning *AI & ML* and building cool projects! 🚀
 [![LinkedIn] (  https://www.linkedin.com/in/siddharth-patil-b0973332b/) ]
 📧 Email: patilsiddharth212004@gmail.com 
 
-⭐ *Let's build something amazing together!* 🚀
-[16/02/25, 11:59:11 AM] Síddharth Patil: Ky kru hee
+
